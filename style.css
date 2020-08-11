@@ -1,4 +1,4 @@
-.t1 {
+.showMessage {
   width: 600px;
   text-align: center;
   margin: auto;
@@ -39,5 +39,10 @@ figure .image img {
 
 .dropdown-item img {
   height: 50px;
+  width: 44px;
   margin-right: 10px;
+}
+
+.awardSize {
+  height: 140px;
 }
